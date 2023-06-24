@@ -1,0 +1,11 @@
+.menu__list__item{
+    display: flex;
+   text-decoration: none;
+   margin-right: 1rem;
+}
+.menu__list__item:last-child a{
+    margin-right: 0;
+}
+.menu__list__item_contato{
+    display: none;
+}
