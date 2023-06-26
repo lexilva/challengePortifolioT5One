@@ -1,0 +1,6 @@
+.about{
+    background-color: var(--cor-de-fundo-azul-claro);
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 5%;
+}

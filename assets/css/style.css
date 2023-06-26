@@ -18,7 +18,6 @@ body {
     padding: 0;
     line-height: 1;
     width: 100%;
-    max-width: 1136px;
 }
 ol, ul,li {
     list-style: none;
@@ -40,9 +39,7 @@ de usuário complexa, e permite a reutilização de código existente sem copiar
 
 Link da documentação oficial!
 https://en.bem.info/methodology/quick-start/*/
-.all{
-    padding-left: 8%;
-}
+
 /*Sessão Menu*/
 
 section.menu{ 
