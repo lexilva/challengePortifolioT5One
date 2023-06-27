@@ -1,0 +1,8 @@
+.about__paragraph{
+    max-width: 100%;
+    width: 50%;
+    text-align: start;
+    font-weight: 400;
+    line-height: 22px;
+    padding-top: 1rem;
+}

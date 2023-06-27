@@ -1,5 +1,6 @@
 .title__bio{
-    font-size: 48px;
+    font-size: 54px;
     text-align: justify;
-    margin bottom: 0.8rem;
+    font-weight: 700;
+    line-height: 61px;
 }

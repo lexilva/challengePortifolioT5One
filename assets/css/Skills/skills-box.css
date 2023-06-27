@@ -1,0 +1,8 @@
+.skills__box{
+    background-color: #ffffff;
+    width: 198px;
+    height: 174px;
+    margin-left: 0;
+    display: flex;
+    align-items: flex-end;
+}
