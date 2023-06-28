@@ -1,0 +1,13 @@
+.academic__courses__item__img{
+    width: 360px;
+    height: 290px;
+    
+}
+.academic__courses__item__img img{
+    width: 280px;
+    margin-left: 23%;
+    margin-bottom: 180px;
+    padding-bottom: 20px;
+    margin-top: 15%;
+    
+}

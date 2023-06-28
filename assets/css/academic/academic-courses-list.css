@@ -1,0 +1,13 @@
+.academic__courses__list{
+    background: var(--fundo-branco);
+    margin-right: 4%;
+    padding: 80px;
+    padding-bottom: 0.0144%;
+    padding-left: 6px;
+    margin-bottom: 35%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
