@@ -29,70 +29,25 @@ a{
     text-decoration: none;
     color: var(--cor-de-link);
 }
-
-/*Neste desafio, gostariamos que praticassem a metodologia BEM, caso seintam a vontade 
-de utiliza-la. 
-
-Mas o que é o BEM?
-
-BEM (Block, Element, Modifier) ​​é uma abordagem baseada em componentes para o desenvolvimento
-web. A ideia por trás disso é dividir a interface do usuário em blocos independentes.
-Isso torna o desenvolvimento de interface fácil e rápido, mesmo com uma interface
-de usuário complexa, e permite a reutilização de código existente sem copiar e colar.
-
-Link da documentação oficial!
-https://en.bem.info/methodology/quick-start/*/
-
-/*Sessão Menu*/
-
-section.menu{ 
-
+input::placeholder{
+    color: var(--cor-do-botao);
 }
-section.menu.img{
-
+.footer{
+    width: 100%;
+    background-color: var(--cor-de-fundo);
+    padding-top: 2rem;
 }
+.footer__rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0rem;
+    text-align: center;
 
-
-/*Sessão Title*/
-
-section.title{
-
-}
-
-/*Sessão About*/
-
-section.about{
-
-}
-
-/*Sessão Hobbies*/
-
-section.hobbies{
-    
-}
-
-/* Experiência Acadêmica*/
-
-section.academic{
-
-}
-
-/* experiência*/
-
-section.experience{
-
-}
-
-/*Contato*/
-
-section.formcontato{
-
-}
-
-/*footeer*/
-
-section.footer{
-   
 }
 
 /* Chegou a hora de se desafiar com a responsividade, 
