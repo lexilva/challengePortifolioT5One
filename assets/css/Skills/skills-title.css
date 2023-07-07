@@ -5,3 +5,8 @@
     line-height: 37px;
     padding-bottom: 2%;
 }
+@media(max-width:768px){
+    .skills__title{
+        font-size: 22px;
+    }
+}

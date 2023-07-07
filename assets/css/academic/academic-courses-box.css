@@ -2,3 +2,10 @@
     width: 350px;
     height: 200px;
 }
+@media (max-width:768px){
+    .academic__course__box{
+       margin-left: 0;
+       width: 200px;
+       height:190px;
+    }
+}

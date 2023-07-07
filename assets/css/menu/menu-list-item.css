@@ -9,3 +9,9 @@
 .menu__list__item_contato{
     display: none;
 }
+@media (max-width:768px){
+    .menu__list{
+        display: none;
+    }
+    
+}

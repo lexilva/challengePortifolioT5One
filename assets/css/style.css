@@ -54,8 +54,15 @@ input::placeholder{
 utilize como referência os breakpoints @media abaixo*/
 
 /*Tablet*/
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+body{
+    padding: 0;
+    margin: 0;
+}
+.all{
+    margin: 0;
+    width: 768px;
+}
 /* Menu */
 
 /*title*/

@@ -4,3 +4,14 @@
     font-weight: 700;
     line-height: 61px;
 }
+@media (max-width:768px){
+    .title__bio{
+        font-family: Raleway;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+}

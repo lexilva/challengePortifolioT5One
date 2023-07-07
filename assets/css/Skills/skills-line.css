@@ -6,3 +6,10 @@
     width: 100%;
     margin-left:9%;
 }
+@media (max-width:768px){
+    .skills__line{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}

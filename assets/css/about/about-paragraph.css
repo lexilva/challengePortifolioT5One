@@ -6,3 +6,12 @@
     line-height: 22px;
     padding-top: 1rem;
 }
+@media(max-width:768px){
+    .about__paragraph{
+        font-family: Raleway;
+        font-size: 14px;
+        line-height: 26px;
+        text-align: initial;
+        width:90%;
+    }
+}

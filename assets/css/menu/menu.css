@@ -6,3 +6,10 @@
     align-items: center;
     padding-left: 5%;
 }
+@media (max-width:768px){
+    .menu{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+}

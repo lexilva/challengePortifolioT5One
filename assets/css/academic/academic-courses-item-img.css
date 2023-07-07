@@ -9,5 +9,9 @@
     margin-bottom: 180px;
     padding-bottom: 20px;
     margin-top: 15%;
-    
+}
+@media (max-width:768px){
+    .academic__courses__item__img{
+        
+    }
 }

@@ -4,3 +4,8 @@
     justify-content: space-around;
     
 }
+@media (max-width:768px){
+    .academic__courses{
+        justify-content: space-between;
+    }
+}

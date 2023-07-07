@@ -2,3 +2,8 @@
     font-size: 30px;
 
 }
+@media(max-width:768px){
+    .academic__title{
+        font-size: 22px;
+    }
+}
