@@ -55,3 +55,6 @@ Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerd
 
  <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+Visit my version in:
+https://lexilva.github.io/challengePortifolioT5One/
